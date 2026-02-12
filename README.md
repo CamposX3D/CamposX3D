@@ -70,7 +70,7 @@
 <table>
 <tr>
 <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CamposX3D&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&bg_color=0d1117&rank_icon=github" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CamposX3D&theme=github_dark&utcOffset=-3" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CamposX3D&theme=github_dark" /></td>
 </tr>
 </table>
 </div>
