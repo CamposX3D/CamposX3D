@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/CamposX3D">
-    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=CamposX3D&bg_color=0d1117&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=20&title_color=FDFD96&area=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CamposX3D&bg_color=0d1117&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=20&title_color=FDFD96&area=true" />
   </a> 
 </p>
 
