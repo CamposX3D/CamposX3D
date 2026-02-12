@@ -32,6 +32,7 @@
 
 ## Skill Set
 
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -55,6 +56,7 @@
 
 </td>
 </tr></table>
+</div>
 
 ---
 
