@@ -35,29 +35,23 @@
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
-<a href="https://github.com/CamposX3D">
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react&perline=5&theme=dark" /> 
 </div>
-</a>
 
 </td><td valign="top" width="33%">
         
 ### Backend
-<a href="https://github.com/CamposX3D">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,rust,ruby,c,cpp,cs&perline=4&theme=dark" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,rust,ruby,c,cpp,cs&perline=4&theme=dark" /> 
 </div>
-</a>
 
 </td><td valign="top" width="33%">
   
 ### Others
-<a href="https://github.com/CamposX3D">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4&theme=dark" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,npm,figma,vscode,vercel,discord,qt&perline=4&theme=dark" /> 
 </div>
-</a>
 
 </td>
 </tr></table>
