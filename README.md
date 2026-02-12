@@ -66,15 +66,14 @@
   <img src="https://komarev.com/ghpvc/?username=CamposX3D&style=for-the-badge&color=orange" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img height="215em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CamposX3D&theme=github_dark&utcOffset=-3" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/CamposX3D">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CamposX3D&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&bg_color=0d1117&rank_icon=github" />
-  </a>
-</p>
+<div align="center">
+<table>
+<tr>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CamposX3D&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&bg_color=0d1117&rank_icon=github" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CamposX3D&theme=github_dark&utcOffset=-3" /></td>
+</tr>
+</table>
+</div>
 
 <p align="center">
   <a href="https://github.com/CamposX3D">
